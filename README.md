@@ -1,0 +1,2 @@
+这是一个做的第一款2D闯关游戏
+打开unity创建项目替换Assets和ProjectSeetings即可
